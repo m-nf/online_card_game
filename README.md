@@ -10,4 +10,4 @@ Application implements: multithreading, client reconnection, its own communicati
  - written in C
  - runs on Linux
 
-More about the project and its functions can be found in Czech-written [documentation](Dokumentace.pdf).
+More information about the project and its functions can be found in Czech-written [documentation](Dokumentace.pdf).
